@@ -380,7 +380,7 @@ Persistent hotspots may be relevant for:
 ```text
 .
 ├── README.md
-├── R
+├── code
 │   ├── 01_data_aggregation.R
 │   ├── 02_covariate_creation.R
 │   ├── 03_model_estimation.R
